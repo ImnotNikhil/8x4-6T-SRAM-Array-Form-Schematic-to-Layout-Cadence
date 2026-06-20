@@ -75,8 +75,6 @@ Repository Contents
   ├── SRAM_Array.png 
   │ 
   ├── Waveforms.png 
-  │ 
-  └── Butterfly_Curve.png 
 │ 
 └── README.md
 
