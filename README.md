@@ -1,0 +1,1 @@
+# 8x4-6T-SRAM-Array-Form-Schematic-to-Layout-Cadence
